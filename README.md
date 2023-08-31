@@ -47,4 +47,4 @@ https://www.youtube.com/@DaveGrayTeachesCode
 
 ###  9. Final Verdict on Valibot
         Valibot: The modular and type safe schema library
-        https://valibot.dev/# TypeScript19
+        https://valibot.dev/
